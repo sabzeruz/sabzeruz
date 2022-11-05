@@ -1,3 +1,15 @@
+
+<h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="55px" width="55px">, I'm Sabzeruz</h1>
+
+### About Me 🚀
+🎓 I’m an student pursuing Software Engineering Major at Vocational High School </br>
+🕹  Love to play casual games, especially games like Genshin Impact </br>
+✅ Always Curious what & how the things can work</br>
+🌱 Currently I'm learing PHP, CI and JS</br>
+😄 Pronouns: He/him/his</br>
+
+ ![visitors](https://visitor-badge.glitch.me/badge?sabzeruz=sabzeruz&left_color=green&right_color=red)
+
 ### Coding Stats
 <!--START_SECTION:waka-->
 
