@@ -8,7 +8,7 @@
 🌱 Currently I'm learing PHP, CI and JS</br>
 😄 Pronouns: He/him/his</br>
 
-  ![visitors](https://visitor-badge.glitch.me/badge?sabzeruz=sabzeruz&left_color=green&right_color=red)
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sabzeruz.sabzeruz)
 
 ### Coding Stats
 <!--START_SECTION:waka-->
