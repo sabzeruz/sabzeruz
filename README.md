@@ -6,7 +6,7 @@
 🕹  Love to play casual games, especially games like Genshin Impact </br>
 ✅ Always Curious what & how the things can work</br>
 🌱 Currently I'm learning PHP, CI and JS</br>
-😄 Pronouns: He/him/his</br>
+😄 Pronouns: He/him</br>
 
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sabzeruz.sabzeruz)
 
