@@ -10,8 +10,16 @@
 
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sabzeruz.sabzeruz) [![wakatime](https://wakatime.com/badge/user/d1b6a1ee-0586-468c-bbf8-254e1dc280f1.svg)](https://wakatime.com/@d1b6a1ee-0586-468c-bbf8-254e1dc280f1)
 
-### Coding Stats
+
+
+### Top Languages </>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabzeruz&theme=tokyonight&layout=compact)
+
+### Github Status <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sabzeruz&show_icons=true&theme=dark"/>
+
+
+### Total time 🕕
 <!--START_SECTION:waka-->
 
 ```text
