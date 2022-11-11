@@ -11,7 +11,7 @@
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sabzeruz.sabzeruz) [![wakatime](https://wakatime.com/badge/user/d1b6a1ee-0586-468c-bbf8-254e1dc280f1.svg)](https://wakatime.com/@d1b6a1ee-0586-468c-bbf8-254e1dc280f1)
 
 ### Coding Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabzeruz&theme=tokyonight)
 <!--START_SECTION:waka-->
 
 ```text
