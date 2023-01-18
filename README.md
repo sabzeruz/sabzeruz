@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="55px" width="55px">, I'm Sabzeruz</h1>
 
+### U can check my website here : https://www.sabzeruz.my.id/
+
 ### About Me 🚀
 🎓 I’m an student pursuing Software Engineering Major at Vocational High School </br>
 🕹  Love to play casual games, especially games like Genshin Impact </br>
