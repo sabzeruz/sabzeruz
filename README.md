@@ -10,7 +10,7 @@
 🌱 Currently I'm learning PHP, CI and JS</br>
 😄 Pronouns: He/him</br>
 
- ![visitor badge](https://vbr.wocr.tk/badge?page_id=visitor-badge-reloaded-visitors&color=590d22&style=for-the-badge&logo=Github&hit=false) [![wakatime](https://wakatime.com/badge/user/d1b6a1ee-0586-468c-bbf8-254e1dc280f1.svg)](https://wakatime.com/@d1b6a1ee-0586-468c-bbf8-254e1dc280f1)
+ ![visitor badge](https://vbr.wocr.tk/badge?page_id=visitor-badge-reloaded-visitors&lcolor=ff4d6d&color=555555&style=flat&logo=Github&hit=false) [![wakatime](https://wakatime.com/badge/user/d1b6a1ee-0586-468c-bbf8-254e1dc280f1.svg)](https://wakatime.com/@d1b6a1ee-0586-468c-bbf8-254e1dc280f1)
 
 
 
