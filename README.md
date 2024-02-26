@@ -15,7 +15,7 @@
 
 
 ### Top Languages </>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sabzeruz&theme=tokyonight&layout=compact)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsabzeruz&countColor=%23263759)
 
 ### Github Status <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sabzeruz&show_icons=true&theme=dark"/>
